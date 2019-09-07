@@ -9,5 +9,4 @@ public class FaultToleranceStudentServiceApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(FaultToleranceStudentServiceApplication.class, args);
 	}
-
 }
